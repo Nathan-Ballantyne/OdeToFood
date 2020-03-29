@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Configuration;
 using OdeToFood.Data;
+using OdeToFood.Core;
 
 namespace OdeToFood.Pages.Restaurants
 {
@@ -13,6 +14,7 @@ namespace OdeToFood.Pages.Restaurants
     {
         private readonly IConfiguration config;
         public string Message { get; set; }
+        public IEnumerable<Restaurent> Restaurents { get; set; }
         public IResturantData resturantData { get; }
         public ListModel(IConfiguration config, IResturantData resturantData)
         {
@@ -23,6 +25,7 @@ namespace OdeToFood.Pages.Restaurants
         public void OnGet()
         {
             Message = config["Message"];
+            Restaurents = resturantData.GetAll();
         }
 
         

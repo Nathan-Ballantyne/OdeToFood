@@ -74,3 +74,7 @@ C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netc
 C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.pdb
 C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.genruntimeconfig.cache
 C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CopyComplete
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
