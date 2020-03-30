@@ -13,6 +13,8 @@ namespace OdeToFood.Pages.Restaurants
     {
         public Restaurent Restaurent { get; set; }
         public IResturantData ResturantData { get; }
+        [TempData]
+        public string Message { get; set; }
 
         public IActionResult OnGet(int restaurentId)
         {

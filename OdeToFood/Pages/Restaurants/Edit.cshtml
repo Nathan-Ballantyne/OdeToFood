@@ -1,0 +1,30 @@
+﻿@page "{restaurentId:int?}"
+
+@model OdeToFood.Pages.Restaurants.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Editing @Model.Restaurent.Name</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="Restaurent.Id" />
+    <div class="form-group">
+        <label asp-for="Restaurent.Name"></label>
+        <input asp-for="Restaurent.Name" class="form-control" />
+        <span class="text-danger" asp-validation-for="Restaurent.Name"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Restaurent.Location"></label>
+        <input asp-for="Restaurent.Location" class="form-control" />
+        <span class="text-danger" asp-validation-for="Restaurent.Location"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Restaurent.Cuisine"></label>
+        <select asp-for="Restaurent.Cuisine" asp-items="@Model.Cuisines" class="form-control"></select>
+        <span class="text-danger" asp-validation-for="Restaurent.Cuisine"></span>
+    </div>
+
+    <button class="btn  btn-primary" type="submit">Save</button>
+</form>
+
