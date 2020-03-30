@@ -1,44 +1,33 @@
 ﻿@page
 @model OdeToFood.Pages.Restaurants.ListModel
 @{
+    ViewData["Title"] = "Restaurants";
 }
 
-    <h1>Restaurants</h1>
+<h1>Restaurants</h1>
 
-    <form method="get">
-        <div class="form-group">
-            <div class="input-group">
-                <input type="search" class="form-control" asp-for="SearchTerm" />
-                <span class="input-group-btn">
-                    <button class="btn btn-light">
-                        <i class="glyphicon glyphicon-search">Search</i>
-                    </button>
-                </span>
-            </div>
+<form method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" asp-for="SearchTerm" />
+            <span class="input-group-btn">
+                <button class="btn btn-light">
+                    <i class="glyphicon glyphicon-search">Search</i>
+                </button>
+            </span>
         </div>
-    </form>
+    </div>
+</form>
 
-    <table class="table">
-        @foreach (var resturant in Model.Restaurents)
-        {
-            <tr>
-                <td>@resturant.Name</td>
-                <td>@resturant.Location</td>
-                <td>@resturant.Cuisine</td>
-                <td>
-                    <a class="btn btn-light" asp-page="./Detail" asp-route-restaurentId="@resturant.Id">
-                        <i class="glyphicon glyphicon-zoom-in">Details</i>
-                    </a>
-                    <a class="btn btn-danger" asp-page="./Edit" asp-route-restaurentId="@resturant.Id">
-                        <i class="glyphicon glyphicon-zoom-in">Edit</i>
-                    </a>
-                </td>
-            </tr>
-        }
+@foreach (var resraurant in Model.Restaurents)
+{
+    <partial name="_Summary" model="resraurant" />
+}
 
-    </table>    
+<a asp-page="./Edit" class="btn btn-primary">Add New</a>
 
-    <a asp-page="./Edit" class="btn btn-primary">Add New</a>
+@section footer{
+    <div>@Model.Message</div>
+}
 
-<div>@Model.Message</div>
 
