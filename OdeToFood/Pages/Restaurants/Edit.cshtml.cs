@@ -54,11 +54,11 @@ namespace OdeToFood.Pages.Restaurants
             }
             if(Restaurent.Id > 0)
             {
-                resturantData.update(Restaurent);
+                resturantData.Update(Restaurent);
             }
             else
             {
-                resturantData.add(Restaurent);
+                resturantData.Add(Restaurent);
             }
             resturantData.Commit();
             TempData["Message"] = "Restaurant saved!";

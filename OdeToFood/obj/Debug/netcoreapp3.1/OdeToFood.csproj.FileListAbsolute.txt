@@ -36,8 +36,6 @@ C:\projects\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.genr
 C:\projects\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CopyComplete
 C:\projects\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csprojAssemblyReference.cache
 C:\projects\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\List.cshtml.g.cs
-C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CoreCompileInputs.cache
-C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorAssemblyInfo.cache
 C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorAssemblyInfo.cs
 C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.AssemblyInfoInputs.cache
@@ -154,3 +152,36 @@ C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netc
 C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.dll
 C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.pdb
 C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.genruntimeconfig.cache
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CoreCompileInputs.cache
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\64276\Documents\New folder\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
